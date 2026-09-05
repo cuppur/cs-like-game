@@ -1,4 +1,4 @@
-# Strike Force — 类CS拆弹射击游戏
+# cs-like-game — 类CS拆弹射击游戏
 
 > Fable5.1大人根据一句提示词28分钟做出的类CS游戏
 
