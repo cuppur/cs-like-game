@@ -1,7 +1,5 @@
 # cs-like-game — 类CS拆弹射击游戏
 
-> Fable5.1大人根据一句提示词28分钟做出的类CS游戏
-
 单文件 HTML 3D 射击游戏（Three.js + Web Audio），直接双击打开 `index.html` 即可游玩，或部署到 GitHub Pages。
 
 ## 🎮 游戏内容概览
